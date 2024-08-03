@@ -1,0 +1,465 @@
+{
+    "AFL-3.0": {
+        "name": [
+            "afl-3.0",
+            "afl",
+            "academic free license",
+            "academic free"
+        ],
+        "version": [
+            "3"
+        ]
+    },
+    "CC0-1.0": {
+        "name": [
+            "cc0"
+        ],
+        "version": [
+            "1"
+        ]
+    },
+    "BSD-3-Clause": {
+        "name": [
+            "bsd","new bsd","new-bsd","modified bsd","modified-bsd","revised bsd","revised-bsd"
+        ],
+        "version": [
+            "3","new","modified","revised"
+        ]
+
+    },
+    "BSD-2-Clause": {
+        "name": [
+            "bsd"
+        ],
+        "version": [
+            "2"
+        ]
+    },
+    "EPL-1.0": {
+        "name": [
+            "epl-1.0",
+            "epl",
+            "eclipse public license"
+        ],
+        "version": [
+            "1"
+        ]
+    },
+    "EFL-2.0": {
+        "name": [
+            "efl",
+            "eiffel forum"
+        ],
+        "version": [
+            "2"
+        ]
+    },
+    "AGPL-3.0-or-later": {
+        "name": [
+            "agpl",
+            "gnu affero general public",
+            "affero"
+        ],
+        "version": [
+            "3+",
+            "3-or-later",
+            "3 or later",
+            "3 or any later",
+            "3.0+",
+            "3.0-or-later",
+            "3.0 or later",
+            "3.0 or any later"
+        ],
+        "must": [
+            "+",
+            "later"
+        ],
+        "no": [
+            "v2",
+            "version 2",
+            "lesser"
+        ]
+    },
+    "BSL-1.0": {
+        "name": [
+            "bsl",
+            "bsl 1.0",
+            "boost software license"
+        ],
+        "version": [
+            "1"
+        ]
+    },
+    "MIT": {
+        "name": [
+            "mit"
+        ],
+        "no": [
+            "0"
+        ]
+    },
+    "LGPL-3.0-or-later": {
+        "name": [
+            "lgpl",
+            "gnu lesser general public",
+            "lesser gnu general public license",
+            "lesser general public license",
+            "lesser gpl",
+            "lesser gnu"
+        ],
+        "version": [
+            "3+",
+            "3-or-later",
+            "3 or later",
+            "3 or any later",
+            "3.0+",
+            "3.0-or-later",
+            "3.0 or later",
+            "3.0 or any later"
+        ],
+        "must": [
+            "+",
+            "later"
+        ],
+        "no": [
+            "v2.1",
+            "version 2.1"
+        ]
+    },
+    "LGPL-2.1-or-later": {
+        "name": [
+            "lgpl",
+            "gnu lesser general public",
+            "lesser gnu general public license",
+            "lesser general public license",
+            "lesser gpl",
+            "lesser gnu"
+        ],
+        "version": [
+            "2+",
+            "2.1+",
+            "2.1-or-later",
+            "2.1 or later",
+            "2.1 or any later",
+            "2.1-or-later",
+            "2.1 or later",
+            "2.1 or any later"
+        ],
+        "must": [
+            "+",
+            "later"
+        ],
+        "no": [
+            "v3",
+            "version 3"
+        ]
+    },
+    "GPL-2.0-or-later": {
+        "name": [
+            "gpl",
+            "gnu general public"
+        ],
+        "version": [
+            "2+",
+            "2-or-later",
+            "2 or later",
+            "2 or any later",
+            "2.0+",
+            "2.0-or-later",
+            "2.0 or later",
+            "2.0 or any later"
+        ],
+        "must": [
+            "+",
+            "later"
+        ],
+        "no": [
+            "v3",
+            "version 3",
+            "lesser"
+        ]
+    },
+    "GPL-2.0-only": {
+        "name": [
+            "gpl",
+            "gnu general public"
+        ],
+        "version": [
+            "2"
+        ],
+        "no": [
+            "later",
+            "+",
+            "v3",
+            "version 3",
+            "lesser"
+        ]
+    },
+    "Artistic-2.0": {
+        "name": [
+            "artistic"
+        ],
+        "version": [
+            "2"
+        ]
+    },
+    "MPL-2.0": {
+        "name": [
+            "mpl",
+            "mozilla public"
+        ],
+        "version": [
+            "2"
+        ]
+    },
+    "UPL-1.0": {
+        "name": [
+            "upl",
+            "universal permissive"
+        ],
+        "version": [
+            "1"
+        ]
+    },
+    "AGPL-3.0-only": {
+        "name": [
+            "agpl",
+            "gnu affero general public",
+            "affero"
+        ],
+        "version": [
+            "3"
+        ],
+        "no": [
+            "later",
+            "+",
+            "v2",
+            "version 2",
+            "lesser"
+        ]
+    },
+    "MirOS": {
+        "name": [
+            "miros"
+        ]
+    },
+    "OSL-3.0": {
+        "name": [
+            "osl",
+            "open software license"
+        ],
+        "version": [
+            "3"
+        ]
+    },
+    "CECILL-2.1": {
+        "name": [
+            "cecill",
+            "cea cnrs inria logiciel libre"
+        ],
+        "version": [
+            "2.1"
+        ]
+    },
+    "PostgreSQL": {
+        "name": [
+            "postgreSsql"
+        ]
+    },
+    "ODbL-1.0": {
+        "name": [
+            "odbL"
+        ]
+    },
+    "NCSA": {
+        "name": [
+            "ncsa"
+        ]
+    },
+    "LGPL-3.0-only": {
+        "name": [
+            "lgpl",
+            "gnu lesser general public",
+            "lesser gnu general public license",
+            "lesser general public license",
+            "lesser gpl",
+            "lesser gnu"
+        ],
+        "version": [
+            "3"
+        ],
+        "no": [
+            "+",
+            "later",
+            "v2.1",
+            "version 2.1"
+        ]
+    },
+    "LGPL-2.1-only": {
+        "name": [
+            "lgpl",
+            "gnu lesser general public",
+            "lesser gnu general public license",
+            "lesser general public license",
+            "lesser gpl",
+            "lesser gnu"
+        ],
+        "version": [
+            "2",
+            "2.1"
+        ],
+        "no": [
+            "+",
+            "later",
+            "v3",
+            "version 3"
+        ]
+    },
+    "Apache-2.0": {
+        "name": [
+            "apache"
+        ]
+    },
+    "BSD-4-Clause": {
+        "name": [
+            "bsd"
+        ],
+        "version": [
+            "4"
+        ]
+    },
+    "EUPL-1.2": {
+        "name": [
+            "eupl",
+            "european union public"
+        ],
+        "version": [
+            "1.2"
+        ]
+    },
+    "ISC": {
+        "name": [
+            "isc"
+        ]
+    },
+    "0BSD": {
+        "name": [
+            "0bsd"
+        ]
+    },
+    "Unlicense": {
+        "name": [
+            "unlicense"
+        ]
+    },
+    "CC-BY-4.0": {
+        "name": [
+            "cc-by",
+            "cc by"
+        ],
+        "version": [
+            "4.0"
+        ]
+    },
+    "BSD-3-Clause-Clear": {
+        "name": [
+            "bsd"
+        ],
+        "version": [
+            "3"
+        ],
+        "must": [
+            "clear"
+        ]
+    },
+    "EUPL-1.1": {
+        "name": [
+            "eupl",
+            "european union public"
+        ],
+        "version": [
+            "1.1"
+        ]
+    },
+    "MIT-0": {
+        "name": [
+            "mit-0","mit 0"
+        ]
+    },
+    "WTFPL": {
+        "name": [
+            "wtfpl",
+            "what the fuck you want to public"
+        ]
+    },
+    "GPL-3.0-only": {
+        "name": [
+            "gpl",
+            "gnu general public"
+        ],
+        "version": [
+            "3"
+        ],
+        "no": [
+            "+",
+            "later",
+            "v2",
+            "version 2"
+        ]
+    },
+    "AAL": {
+        "name": [
+            "aal",
+            "attribution assurance License"
+        ]
+    },
+    "Zlib": {
+        "name": [
+            "zlib"
+        ]
+    },
+    "CC-BY-SA-4.0": {
+        "name": [
+            "cc-by-sa",
+            "by-sa",
+            "by sa"
+        ],
+        "version": [
+            "4"
+        ]
+    },
+    "GPL-3.0-or-later": {
+        "name": [
+            "gpl",
+            "gnu general public"
+        ],
+        "version": [
+            "3+",
+            "3-or-later",
+            "3 or later",
+            "3 or any later",
+            "3.0+",
+            "3.0-or-later",
+            "3.0 or later",
+            "3.0 or any later"
+        ],
+        "must": [
+            "+",
+            "later"
+        ],
+        "no": [
+            "v2",
+            "version 2",
+            "lesser"
+        ]
+    },
+    "EPL-2.0": {
+        "name": [
+            "epl",
+            "eclipse public"
+        ],
+        "version": [
+            "2"
+        ]
+    }
+}
