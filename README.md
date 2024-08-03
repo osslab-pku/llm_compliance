@@ -6,7 +6,7 @@ This repository contains benchmark data associated with the paper "A First Look 
 
 You can evaluate LLMs by run:
 ```
-python3 compliance_test_completion.py --model gpt-4o
+python3 compliance_test.py --model gpt-4o
 ```
 Please replace the api url and the key path with your own.
 
