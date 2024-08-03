@@ -1,0 +1,9 @@
+datasketch==1.6.5
+joblib==1.2.0
+jsonlines==4.0.0
+nltk==3.8.1
+openai==1.38.0
+pandas==2.0.2
+Pygments==2.11.2
+tqdm==4.65.0
+transformers==4.38.2
