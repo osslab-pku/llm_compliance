@@ -12,8 +12,8 @@ from extract_main import extract
 from analysis import cal_blue, cal_jaccard, cal_edit_distance_sim, get_comment, get_license_type
 from check_license import find_license_by_keywords
 
-#api_key: str = open("key_path", "r").readline().strip()  # replace with your key path
-#base_url: str = ""  # replace with your base url
+api_key: str = open("key_path", "r").readline().strip()  # replace with your key path
+base_url: str = ""  # replace with your base url
 benchmark: dict = json.load(open(f'benchmark.json'))
 
 def chat(chunk: list, m: str, lock) -> dict:
