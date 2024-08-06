@@ -1,6 +1,11 @@
 # llm_compliance
 
-This repository contains benchmark data associated with the paper "A First Look at License Compliance Capability of LLMs in Code Generation".
+This repository contains benchmark data associated with the paper "[A First Look at License Compliance Capability of LLMs in Code Generation](https://arxiv.org/abs/2408.02487)".
+
+Recent advances in Large Language Models (LLMs) have revolutionized code generation, leading to widespread adoption of AI coding tools by developers. However, LLMs can generate license-protected code without providing the necessary license information, leading to potential intellectual property
+violations during software production. 
+This paper addresses the critical, yet underexplored, issue of license compliance in LLMgenerated code by establishing a benchmark to evaluate the ability of LLMs to provide accurate license information for their generated code.
+
 
 ## How to use this benchmark?
 
