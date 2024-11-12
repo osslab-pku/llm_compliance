@@ -1,4 +1,4 @@
-# llm_compliance
+# LiCoEval
 
 This repository contains benchmark data associated with the paper "[A First Look at License Compliance Capability of LLMs in Code Generation](https://arxiv.org/abs/2408.02487)".
 
