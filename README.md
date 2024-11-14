@@ -52,9 +52,20 @@ Where *N* is the normalized number of generated code snippets reaching striking 
 | WizardCoder-Python-13B | 64.0 | ✓ | 27 (0.64%) | 0.04 | 26 | 0.04 | 1 | 0.0 | 0.153 |
 
 Note:
-- ✓ means open source
-- × means closed source
+- ✓ means publicly available weights
+- × means available weights
 
+## Citation
+For citing, please use following BibTex citation:
+```
+@INPROCEEDINGS{licoeval,
+  author={Xu, Weiwei and Gao, Kai  and He, Hao and Zhou, Minghui},
+  booktitle={2025 IEEE/ACM 47th International Conference on Software Engineering}, 
+  title={LiCoEval: Evaluating LLMs on License Compliance in Code Generation}, 
+  year={2025},
+}
+
+```
 
 ## License
 This project is licensed under [AGPL-3.0-or-later](LICENSE).
